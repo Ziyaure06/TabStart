@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "TabStart",
+  "version": "1.1",
+  "description": "Automatically opens your chosen URL alongside your previous tabs on startup.",
+  "permissions": ["storage", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
