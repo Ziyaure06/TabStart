@@ -34,8 +34,3 @@
 4.  **"Paketlenmemiş öğe yükle"** butonuna basın ve klasörü seçin.
 5.  **TabStart**'ı araç çubuğuna sabitleyin, URL'nizi girip **Save** deyin.
 
----
-
-## 📄 License / Lisans
-
-This project is licensed under the MIT License. Feel free to use and modify!
